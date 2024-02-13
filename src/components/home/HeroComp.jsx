@@ -8,7 +8,7 @@ const HeroComp = () =>{
                 <p>Pendaftaran Olimpiade Kimia Remaja Internasional telah dibuka! Bergabunglah <br /> dengan acara bergengsi ini dan dapatkan pengalaman kimia yang tak terlupakan!
                 </p>
                 <br />
-                <a href="#" className="registration-button">Daftar</a>
+                <a href="#" className="registration-button">Segera Hadir</a>
             </div>
         </section>
         </>

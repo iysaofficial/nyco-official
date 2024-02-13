@@ -47,17 +47,15 @@ const NavbarComp = () =>{
                     </ul>
                 </li> */}
                 <li><a href="#about">Tentang</a></li>
-                <li><a href="#" target='_blank'>Buku Panduan</a></li>
-                <li>
+                {/* <li><a href="#" target='_blank'>Buku Panduan</a></li> */}
+                {/* <li>
                     <label htmlFor="btn-1" className='show'>Galeri</label>
                     <a href="#">Galeri</a>
                     <input type="checkbox" id='btn-1'/>
                     <ul>
                         <li><a href="" target='_blank'>2023</a></li>
-                        {/* <li><a href="#">Elements</a></li>
-                        <li><a href="#">Icons</a></li> */}
                     </ul>
-                </li>
+                </li> */}
                 <li><a href="#category">Kategori</a></li>  
                 <li><a href="#contact">Kontak</a></li>
             </ul>
