@@ -17,10 +17,10 @@ const FooterComp = () =>{
                             <a href="#">Registrasi</a>
                         </li> */}
                         <li>
-                            <a href="#">Kontak</a>
+                            <a href="#contact">Kontak</a>
                         </li>
                         <li>
-                            <a href="#">Website Utama Kami</a>
+                            <a href="https://iysa.or.id" target='_blank'>Website Utama Kami</a>
                         </li>
                     </ul>
                 </div>
@@ -28,17 +28,17 @@ const FooterComp = () =>{
                     <h5>Navigasi</h5>
                     <ul className='footer-links'>
                         <li>
-                            <a href="#">Utama</a>
+                            <a href="/">Utama</a>
                         </li>
                         <li>
-                            <a href="#">Tentang</a>
+                            <a href="#about">Tentang</a>
                         </li>
                         <li>
-                            <a href="#">Buku Panduan</a>
+                            <a href="https://drive.google.com/file/d/17PyI0wunxWq_Xami5eRLlWuqft98QZ6t/view?usp=drive_link" target='_blank'>Buku Panduan</a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a href="#">Galeri</a>
-                        </li>
+                        </li> */}
                         <li>
                             <a href="#category">Kategori</a>
                         </li>

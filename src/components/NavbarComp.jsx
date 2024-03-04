@@ -57,6 +57,7 @@ const NavbarComp = () =>{
                     </ul>
                 </li> */}
                 <li><a href="#category">Kategori</a></li>  
+                <li><a href="https://drive.google.com/file/d/17PyI0wunxWq_Xami5eRLlWuqft98QZ6t/view?usp=drive_link" target='_blank'>Buku Panduan</a></li>
                 <li><a href="#contact">Kontak</a></li>
             </ul>
         </nav>
