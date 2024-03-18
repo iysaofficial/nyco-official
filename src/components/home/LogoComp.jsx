@@ -21,9 +21,9 @@ const LogoComp = () =>{
                     <li>
                         <img src="./assets/images/logo/MIICA.png" alt=""/>
                     </li>
-                    <li>
+                    {/* <li>
                         <img src="./assets/images/logo/MYSA.png" style={{height: "170px"}} alt=""/>
-                    </li>
+                    </li> */}
                 </ul>
             </div>
         </div>
