@@ -343,23 +343,41 @@
 /* after event start */
 
 .after-event-section{
-    padding:15px 9%;
-    padding-bottom: 100px;
-    /* background-image: url(../../../../public/assets/images/tes4.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat; */
+    min-height: 100vh;
+    background: #fff;
+    padding: 5rem 9% 5rem;
 }
 
-.after-event-section .after-event-container h1{
+.after-event-row{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+/* @media (max-width: 768px){
+    .after-event-row{
+        flex-direction: column;
+    }
+} */
+
+.after-event-section .after-event-heading h1{
+    text-align: center;
+}
+
+.after-event-section .after-event-heading h1{
     font-size: 30px;
     font-weight: 500;
     text-align: center;
     position: relative;
     margin-top: 2rem;
+    margin-bottom: 3rem;
 }
 
-.after-event-section .after-event-container h1::after{
+.after-event-section .after-event-heading h1:after{
     content: '';
     position: absolute;
     width: 100px;
@@ -370,6 +388,13 @@
     right: 0;
     margin: 0 auto;
 }
+
+.after-event-section p{
+    text-align: justify;
+    font-size: 1rem;
+    align-items: center;
+}
+
 
 /* after event end */
 
