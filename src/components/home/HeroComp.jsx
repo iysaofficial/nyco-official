@@ -7,11 +7,11 @@ const HeroComp = () =>{
                 <h1>National Youth Chemistry Olympiad</h1>
                 <p>Pendaftaran National Youth Chemistry Olympiad telah dibuka! Bergabunglah <br /> dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!
                 </p>
-                <br />
+                 <br />
                 <a href="#" target="_blank" className="registration-button">Segera Hadir 2025</a>
             </div>
         </section>
-        </>
+        </> 
     )
 }
 
