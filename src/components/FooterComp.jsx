@@ -56,11 +56,11 @@ const FooterComp = () =>{
                         </li>
                         <li>
                             <i className='fas fa-phone-alt'></i>
-                            <span>+62817-7091-4129</span>
+                            <span>+6283870026877</span>
                         </li>
                         <li>
                             <i className='fas fa-envelope'></i>
-                            <span>nyco.officiall1@gmail.com</span>
+                            <span>iysa.olympiad@gmail.com</span>
                         </li>
                     </ul>
                     <ul className='social-link-icons'>

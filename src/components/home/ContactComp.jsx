@@ -53,11 +53,11 @@ const ContactComp = () =>{
                             </div>
                             <div className="information">
                                 <img src="./assets/images/icon/email.png" className="contact-icon" alt="" />
-                                <a href='mailto:nyco.officiall1@gmail.com' target='_blank'>nyco.officiall1@gmail.com</a>
+                                <a href='mailto:iysa.olympiad@gmail.com' target='_blank'>iysa.olympiad@gmail.com</a>
                             </div>
                             <div className="information">
                                 <img src="./assets/images/icon/phone.png" className="contact-icon" alt="" />
-                                <a href='https://wa.me/+6281770914129' target='_blank'>+62817-7091-4129</a>
+                                <a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a>
                             </div>
                         </div>
 
