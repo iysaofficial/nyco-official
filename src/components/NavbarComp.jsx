@@ -49,24 +49,21 @@ const NavbarComp = () =>{
                     <li className='menu-item'><a href="https://drive.google.com/file/d/12V9wdh8kQQTELQEflCUk_Cxtcf3wiW5M/view?usp=sharing" target='_blank'>Buku Panduan</a></li>
                     {/* <li className='menu-item'><a href="#contact">Kontak</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Liputan Media <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/16x4XVuEVbvPVqlVdl5FG1t-R_OnBLOJM/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
-                        <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1PEEYeGt0SWTz0dMRZgRysm-uHroHmp5O/view?usp=sharing" target='_blank'>Daftar Pemenang 2024</a></li>
-                        </ul>
+                        <a className='sub-btn' href="/ListOfWinnerAllPage">Daftar Pemenang </a>
                     </li>
-                    <li className='menu-item'>
+                    {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Kurasi <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1g-fqmcbOycJpjW9rA-Q_KbWstyuOOU0Y?usp=sharing" target='_blank'>Kurasi 2024</a></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
