@@ -8,7 +8,7 @@ const HeroComp = () =>{
                 <p>Pendaftaran National Youth Chemistry Olympiad telah dibuka! Bergabunglah <br /> dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!
                 </p>
                  <br />
-                <a href="https://registrasi-nyco-2025.vercel.app/" target="_blank" className="registration-button">Registrasi</a>
+                <a href="#" target="_blank" className="registration-button">Registrasi di Tutup</a>
             </div>
         </section>
         </> 
